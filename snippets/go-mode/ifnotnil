@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: ifnotnil
+# key: ifnn
+# group: conditional
+# --
+if ${1:err} != nil {
+   $0
+}

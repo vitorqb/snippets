@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: import
+# key: i
+# group: import
+# --
+import ${1:library}

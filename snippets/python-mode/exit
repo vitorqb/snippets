@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: __exit__
+# key: __exit__
+# group: general
+# --
+def __exit__(self, type, value, traceback):
+    $0

@@ -1,0 +1,10 @@
+* Snippets
+
+** Installation
+
+1. Clone this repo somewhere
+2. Add this to your emacs init
+
+#+begin_src el
+(add-to-list 'yas-snippet-dirs "${PATH_TO_REPO}/snippets")
+#+end_src

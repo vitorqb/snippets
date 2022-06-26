@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: assertnil
+# key: an
+# group: assertions
+# --
+assert.Nil(t, ${1:err})$0

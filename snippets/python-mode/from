@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: from
+# key: f
+# group: import
+# --
+from ${1:library} import ${2:entity}

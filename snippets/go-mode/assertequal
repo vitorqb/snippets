@@ -1,0 +1,6 @@
+ # -*- mode: snippet -*-
+# name: assertequal
+# key: ae
+# group: assertion
+# --
+assert.Equal(t, ${1:expected}, ${2:actual})$0
