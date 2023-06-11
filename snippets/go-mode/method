@@ -1,0 +1,8 @@
+ # -*- mode: snippet -*-
+# name: method
+# key: m
+# group: 
+# --
+func (${1:x} ${2:Struct}) ${3:FuncName}(${4:args}) ${5:Return} {
+     $0
+}

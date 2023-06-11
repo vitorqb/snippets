@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: deftestrun
+# key: dtr
+# group: testing
+# --
+t.Run("$1", func(t *testing.T) {
+        $0
+})
