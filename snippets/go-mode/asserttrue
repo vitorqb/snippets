@@ -1,0 +1,6 @@
+ # -*- mode: snippet -*-
+# name: asserttrue
+# key: at
+# group: assertion
+# --
+assert.True(t, ${1:found})$0
